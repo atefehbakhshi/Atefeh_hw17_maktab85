@@ -1,0 +1,29 @@
+### Library
+- A library is a collection of pre-written codes (pre-defined functions and classes) that
+  can be used to simplify tasks (writing fewer lines of code) and speed up the development process.
+
+- You can integrate libraries into existing projects to add additional functionalities. It means
+  your code or application uses the library.
+
+-In a project we can use more than one library.
+
+
+### Framework
+- A framework is like a “foundation” on which developers build applications. It means a framework provides
+  us an eco-system or structure along with reusable pieces of code to deal with complex development challenges easily.
+
+
+### Key Difference between a library and a framework
+- The main difference between a framework and a library lies in a term called ”inversion of control”. When you use
+  a library, you are in charge of the flow of the application. You are choosing when and where to call the library.
+  But when you use a framework, the framework is in charge of the flow. It provides some places for you to put your
+  code, and it will call your code when required.
+
+
+### Why React JS is a Library not Framework?
+- It does not provide the complete “eco-system” to develop an application
+- It lacks a lot of built-in features and heavily depends on third-party packages, like for routing you need to use
+  react-router
+- React is referred to as “unopinionated” because of there are lots of options to do something and we have to choose
+  our tools (packages) carefully and create a proper design system for a specific project.
+- React is too much flexible, so you have a lot of options to achieve something.
