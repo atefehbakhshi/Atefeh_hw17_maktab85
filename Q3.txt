@@ -1,0 +1,12 @@
+Instead of artificially separating technologies by putting markup and logic in separate
+files, React separates concerns with loosely coupled units called “components” that contain
+both. React doesn’t require using JSX, but most people find it helpful as a visual aid when
+working with UI inside the JavaScript code.
+
+-Embedding Expressions in JSX
+
+-Specifying Attributes with JSX
+
+-JSX Prevents Injection Attacks : By default, React DOM escapes any values embedded in JSX
+ before rendering them. Thus it ensures that you can never inject anything that’s not explicitly
+ written in your application.
