@@ -1,0 +1,23 @@
+.counter {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  font-size: 2rem;
+}
+
+.counter-btn {
+  width: 3rem;
+  height: 3rem;
+  border: none;
+  border-radius: 50%;
+  font-size: inherit;
+  color: #fff;
+}
+
+.plus {
+  background-color: rgb(9, 136, 68);
+}
+
+.minus {
+  background-color: rgb(73, 73, 73);
+}
