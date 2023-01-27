@@ -1,0 +1,20 @@
+- Components let you split the UI into independent, reusable pieces, and
+ think about each piece in isolation. A Component is one of the core building
+ blocks of React. Components make the task of building UIs much easier.
+
+Difference: 
+1- A functional component is just a plain JavaScript pure function that accepts props
+ as an argument and returns a React element. A class component requires you to extend 
+ from React. Component and create a render function which returns a React element.
+
+2- React lifecycle methods (for example, componentDidMount) cannot be used in functional
+ components. React lifecycle methods can be used inside class components.
+
+3- Hooks can be easily used in functional components to make them Stateful. It requires
+ different syntax inside a class component to implement hooks.
+
+4- Constructors are not used in functional components. Constructor are used as it needs
+ to store state in class components. 
+
+5- Multiple states merge automatically in class components, but in functional
+ components it must handle manually. 
