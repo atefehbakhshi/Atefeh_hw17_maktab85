@@ -1,0 +1,13 @@
+1- "Speed": React basically allows developers to utilize individual parts of their application
+   In simple terms, different developers can write individual parts and all changes made
+   won’t cause the logic of the application.
+        
+2- "Flexibility": Compared to other frontend frameworks, the React code is easier to maintain and
+   is flexible due to its modular structure. This flexibility, in turn, saves a huge amount of time
+   and cost to businesses.
+
+3- "Performance": React JS was designed to provide high performance in mind. The core of the framework
+    offers a virtual DOM program and server-side rendering, which makes complex apps run extremely fast.
+
+4- "Reusable Components": It saves time for developers as they don’t have to write various codes for the
+    same features.
